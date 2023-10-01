@@ -13,6 +13,7 @@ body {
 
 .centered-container {
     text-align: center;
+  box-sizing: border-box;
 }
 
 .content {
